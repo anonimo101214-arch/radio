@@ -1,0 +1,85 @@
+{
+  "stream_url": "https://srv3.braudio.com.br:7078/stream",
+  "app_name": "MixShow",
+  "logo_url": "https://i.postimg.cc/rFNt0Wkq/aa7460ea-b0b1-423c-9755-4473abc80a05.jpg",
+  "background_url": "https://i.postimg.cc/wxWD8YjH/76eee45f1a325937aa78e6569986a52c.jpg",
+  "bg_tint_color": "#000e38",
+  "bg_tint_opacity": 0.78,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://www.tendaatacado.com.br/assets/institucional/Imagem_191.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://aquiacontece.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-09.44.49.jpeg",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://guiasaotiago.com.br/wp-content/webp-express/webp-images/uploads/2022/05/Paulao-Artefatos-de-cimento-1024x575.jpg.webp",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://assets.bileto.sympla.com.br/eventmanager/production/320p5ku0fodhvfsmdnmdq78tif2hs2rh18vqsmg60ehlvgk2dlfdgtsugt0714d5ha1micbrt5dbsp7995h025lv6o2ddr0fgam7a1r.webp",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://youtube.com/"
+    }
+  ],
+
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=55"
+    },
+    {
+      "icon": "instagram",
+      "url": ""
+    },
+    {
+      "icon": "youtube",
+      "url": ""
+    },
+    {
+      "icon": "website",
+      "url": "  "
+    }
+  ]
+}
