@@ -1,6 +1,6 @@
 {
   "stream_url": "https://srv3.braudio.com.br:7078/stream",
-  "app_name": "MixShow",
+  "app_name": "Radio MixShow",
   "logo_url": "https://i.postimg.cc/rFNt0Wkq/aa7460ea-b0b1-423c-9755-4473abc80a05.jpg",
   "background_url": "https://i.postimg.cc/wxWD8YjH/76eee45f1a325937aa78e6569986a52c.jpg",
   "bg_tint_color": "#000e38",
@@ -15,7 +15,7 @@
   "enable_timer": true,
   "enable_volume_bar": true,
   "enable_metadata": true,
-  "enable_album_art": false,
+  "enable_album_art": true,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
