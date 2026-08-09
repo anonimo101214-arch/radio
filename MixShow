@@ -87,6 +87,7 @@
     "icon": "youtube",
     "url": "https://www.youtube.com/@ciclistamalucoshow"
   },
+"enable_share": true
   {
     "icon": "globe",
     "url": "https://www.radiomixshow.com.br/"
