@@ -64,37 +64,22 @@
     }
   ],
 
-  "enable_share": true,
-
-"social_icons": [
-  {
-    "icon": "whatsapp",
-    "url": "https://api.whatsapp.com/send?phone=55"
-  },
-  {
-    "icon": "instagram",
-    "url": ""
-  },
-  {
-    "icon": "facebook",
-    "url": ""
-  },
-  {
-    "icon": "tiktok",
-    "url": ""
-  },
-  {
-    "icon": "youtube",
-    "url": "https://www.youtube.com/@ciclistamalucoshow"
-  },
-"enable_share": true
-  {
-    "icon": "globe",
-    "url": "https://www.radiomixshow.com.br/"
-  },
-  {
-    "icon": "email",
-    "url": "mailto:"
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=55"
+    },
+    {
+      "icon": "instagram",
+      "url": ""
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@ciclistamalucoshow"
+    },
+    {
+      "icon": "www.radiomixshow.com.br",
+      "url": "https://www.radiomixshow.com.br/"
     }
   ]
 }
