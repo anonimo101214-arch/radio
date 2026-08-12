@@ -81,8 +81,10 @@
       "icon": "Mixshow",
       "url": "https://www.radiomixshow.com.br/"
     }
-  ]
-}
+{
+  "icon": "share",
+    "url": "https://www.radiomixshow.com.br/"
+
 
     
    
