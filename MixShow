@@ -55,14 +55,14 @@
       "click_url": "https://wa.me/"
     },
     {
-      "title": ": "PATROCINADOR 5",
-      "subtitle": "Clique e fale no WhatsApp",
+      "title": "",
+      "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://youtube.com/"
-    },
-  {
+    }
+  ],
 
   "social_icons": [
     {
@@ -71,21 +71,18 @@
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/pablo_rodrigo_1305/"
+      "url": ""
     },
     {
       "icon": "youtube",
       "url": "https://www.youtube.com/@ciclistamalucoshow"
     },
     {
-      "icon": "Mixshow",
+      "icon": "www.radiomixshow.com.br",
       "url": "https://www.radiomixshow.com.br/"
-    },
-{
-  "icon": "share",
-    "url": "https://www.radiomixshow.com.br/"
-},
-{
+    }
+  ]
+}
 
     
    
