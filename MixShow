@@ -61,8 +61,8 @@
       "text_color": "#FFFFFF",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://youtube.com/"
-    }
-  ],
+    },
+  {
 
   "social_icons": [
     {
@@ -80,11 +80,12 @@
     {
       "icon": "Mixshow",
       "url": "https://www.radiomixshow.com.br/"
-    }
+    },
 {
   "icon": "share",
     "url": "https://www.radiomixshow.com.br/"
-
+},
+{
 
     
    
