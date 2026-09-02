@@ -3,7 +3,7 @@
   "app_version": "2.0",
 
   "stream": {
-    "url": "srv3.braudio.com.br:7078",
+    "url": "srv3.braudio.com.br:35078",
     "autoplay": true,
     "reconnect": true,
     "reconnect_delay_ms": 3000
