@@ -1,238 +1,85 @@
 {
-  "app_name": "Rádio MixShow",
-  "app_version": "2.0",
+  "stream_url": "https://srv3.braudio.com.br:7078/stream",
+  "app_name": "Radio MixShow",
+  "logo_url": "https://i.postimg.cc/rFNt0Wkq/aa7460ea-b0b1-423c-9755-4473abc80a05.jpg",
+  "background_url": "https://i.postimg.cc/wxWD8YjH/76eee45f1a325937aa78e6569986a52c.jpg",
+  "bg_tint_color": "#000e38",
+  "bg_tint_opacity": 0.78,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": true,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
 
-  "stream": {
-    "url": "https://srv3.braudio.com.br:7078",
-    "autoplay": true,
-    "reconnect": true,
-    "reconnect_delay_ms": 3000
-  },
 
-  "branding": {
-    "logo_url": "https://i.postimg.cc/rFNt0Wkq/aa7460ea-b0b1-423c-9755-4473abc80a05.jpg",
-    "background_url": "https://i.postimg.cc/wxWD8YjH/76eee45f1a325937aa78e6569986a52c.jpg",
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://www.tendaatacado.com.br/assets/institucional/Imagem_191.png",
+      "click_url": "https://www.radiomixshow.com.br/# "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://aquiacontece.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-09.44.49.jpeg",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://guiasaotiago.com.br/wp-content/webp-express/webp-images/uploads/2022/05/Paulao-Artefatos-de-cimento-1024x575.jpg.webp",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://assets.bileto.sympla.com.br/eventmanager/production/320p5ku0fodhvfsmdnmdq78tif2hs2rh18vqsmg60ehlvgk2dlfdgtsugt0714d5ha1micbrt5dbsp7995h025lv6o2ddr0fgam7a1r.webp",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://youtube.com/"
+    }
+  ],
 
-    "background_tint": "#000E38",
-    "background_opacity": 0.78,
-
-    "primary_color": "#061A2D",
-    "secondary_color": "#00D9FF",
-    "accent_color": "#00E5FF",
-
-    "card_color": "#101B30",
-
-    "text_color": "#FFFFFF",
-    "secondary_text_color": "#B8C5D6"
-  },
-
-  "player": {
-    "live_badge_text": "AO VIVO",
-    "live_badge_color": "#FF1744",
-
-    "enable_metadata": true,
-    "enable_album_art": true,
-    "enable_album_view": true,
-
-    "enable_volume_bar": true,
-    "enable_recording": true,
-    "enable_timer": true,
-
-    "show_play_animation": true,
-    "show_audio_visualizer": true,
-    "show_connection_status": true,
-
-    "show_share_button": true,
-    "show_favorite_button": true
-  },
-
-  "metadata": {
-    "enabled": true,
-
-    "fallback_title": "Rádio MixShow",
-    "fallback_artist": "A sua rádio, o seu som",
-
-    "refresh_interval_ms": 8000,
-
-    "show_artist": true,
-    "show_song": true,
-    "show_album": true
-  },
-
-  "interface": {
-    "modern_player": true,
-    "rounded_cards": true,
-    "glass_effect": true,
-    "animations": true,
-    "blur_background": true,
-    "dark_mode": true,
-
-    "show_clock": true,
-    "show_date": true,
-    "show_listener_count": false
-  },
-
-  "sponsors": {
-    "enabled": true,
-
-    "label": "Nossos Parceiros",
-
-    "banner_interval_ms": 7000,
-
-    "banners": [
-      {
-        "title": "PATROCINADOR 1",
-        "subtitle": "Toque para conhecer",
-        "image_url": "https://www.tendaatacado.com.br/assets/institucional/Imagem_191.png",
-        "click_url": "https://www.radiomixshow.com.br/",
-        "bg_color": "#FDCB03",
-        "text_color": "#000000"
-      },
-
-      {
-        "title": "PATROCINADOR 2",
-        "subtitle": "Toque para conhecer",
-        "image_url": "https://aquiacontece.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-09.44.49.jpeg",
-        "click_url": "",
-        "bg_color": "#FDCB03",
-        "text_color": "#000000"
-      },
-
-      {
-        "title": "PATROCINADOR 3",
-        "subtitle": "Toque para conhecer",
-        "image_url": "https://guiasaotiago.com.br/wp-content/webp-express/webp-images/uploads/2022/05/Paulao-Artefatos-de-cimento-1024x575.jpg.webp",
-        "click_url": "",
-        "bg_color": "#FDCB03",
-        "text_color": "#000000"
-      },
-
-      {
-        "title": "PATROCINADOR 4",
-        "subtitle": "Fale pelo WhatsApp",
-        "image_url": "https://assets.bileto.sympla.com.br/eventmanager/production/320p5ku0fodhvfsmdnmdq78tif2hs2rh18vqsmg60ehlvgk2dlfdgtsugt0714d5ha1micbrt5dbsp7995h025lv6o2ddr0fgam7a1r.webp",
-        "click_url": "https://wa.me/",
-        "bg_color": "#FDCB03",
-        "text_color": "#000000"
-      },
-
-      {
-        "title": "ANUNCIE AQUI",
-        "subtitle": "Divulgue sua empresa na Rádio MixShow",
-        "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-        "click_url": "https://www.radiomixshow.com.br/",
-        "bg_color": "#111111",
-        "text_color": "#FFFFFF"
-      }
-    ]
-  },
-
-  "social": {
-    "enabled": true,
-
-    "links": [
-      {
-        "icon": "whatsapp",
-        "title": "WhatsApp",
-        "url": "https://api.whatsapp.com/send?phone=55"
-      },
-
-      {
-        "icon": "instagram",
-        "title": "Instagram",
-        "url": ""
-      },
-
-      {
-        "icon": "youtube",
-        "title": "YouTube",
-        "url": "https://www.youtube.com/@ciclistamalucoshow"
-      },
-
-      {
-        "icon": "website",
-        "title": "Site",
-        "url": "https://www.radiomixshow.com.br/"
-      }
-    ]
-  },
-
-  "menu": {
-    "enabled": true,
-
-    "items": [
-      {
-        "title": "Início",
-        "icon": "home",
-        "action": "home"
-      },
-
-      {
-        "title": "Programação",
-        "icon": "calendar",
-        "action": "schedule"
-      },
-
-      {
-        "title": "WhatsApp",
-        "icon": "whatsapp",
-        "action": "whatsapp"
-      },
-
-      {
-        "title": "Redes Sociais",
-        "icon": "share",
-        "action": "social"
-      },
-
-      {
-        "title": "Nosso Site",
-        "icon": "globe",
-        "action": "website"
-      },
-
-      {
-        "title": "Compartilhar App",
-        "icon": "share-app",
-        "action": "share_app"
-      }
-    ]
-  },
-
-  "notifications": {
-    "enabled": true,
-
-    "show_now_playing": true,
-    "show_play_pause": true,
-    "show_station_logo": true
-  },
-
-  "sleep_timer": {
-    "enabled": true,
-
-    "options_minutes": [
-      15,
-      30,
-      45,
-      60,
-      90,
-      120
-    ]
-  },
-
-  "connection": {
-    "show_offline_message": true,
-    "offline_message": "Sem conexão. Tentando reconectar...",
-
-    "reconnect_automatically": true,
-    "reconnect_interval_ms": 3000
-  },
-
-  "share": {
-    "enabled": true,
-
-    "app_text": "Ouça a Rádio MixShow! Música e entretenimento 24 horas.",
-
-    "website": "https://www.radiomixshow.com.br/"
-  }
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=55"
+    },
+    {
+      "icon": "instagram",
+      "url": ""
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@ciclistamalucoshow"
+    },
+    {
+      "icon": "www.radiomixshow.com.br",
+      "url": "https://www.radiomixshow.com.br/"
+    }
+  ]
 }
