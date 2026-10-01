@@ -3,11 +3,11 @@
   "app_name": "Radio MixShow",
   "logo_url": "https://i.postimg.cc/rFNt0Wkq/aa7460ea-b0b1-423c-9755-4473abc80a05.jpg",
   "background_url": "https://i.postimg.cc/wxWD8YjH/76eee45f1a325937aa78e6569986a52c.jpg",
-  "bg_tint_color": "#39FF14",
-  "bg_tint_opacity": 0.50,
+  "bg_tint_color": "#9D00FF",
+  "bg_tint_opacity": 0.65,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
-  "accent_color": "#39FF14",
+  "accent_color": "#BF00FF",
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
@@ -19,45 +19,16 @@
   "enable_album_view": true,
   "enable_schedule": true,
   "schedule_url": "https://www.radiomixshow.com.br/programação",
-  "enable_menu": true,
-  "menu_button": {
-    "label": "Menu",
-    "position": "bottom-left",
-    "bg_color": "#39FF14",
-    "text_color": "#000000",
-    "items": [
-      {
-        "title": "Acessar Site Principal",
-        "icon": "website",
-        "url": "https://www.radiomixshow.com.br/"
-      },
-      {
-        "title": "Programação da Rádio",
-        "icon": "calendar",
-        "url": "https://www.radiomixshow.com.br/programação"
-      },
-      {
-        "title": "Pedir Música",
-        "icon": "music",
-        "url": "https://api.whatsapp.com/send?phone=55"
-      },
-      {
-        "title": "Fale Conosco",
-        "icon": "whatsapp",
-        "url": "https://api.whatsapp.com/send?phone=55"
-      }
-    ]
-  },
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
   "banners": [
     {
-      "title": "PATROCINADOR 1",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
+      "title": "MENU DO SITE",
+      "subtitle": "Clique para abrir o Menu",
+      "bg_color": "#9D00FF",
+      "text_color": "#FFFFFF",
       "image_url": "https://www.tendaatacado.com.br/assets/institucional/Imagem_191.png",
-      "click_url": "https://www.radiomixshow.com.br/# "
+      "click_url": "https://www.radiomixshow.com.br/"
     },
     {
       "title": "PATROCINADOR 2",
