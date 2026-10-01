@@ -3,11 +3,11 @@
   "app_name": "Radio MixShow",
   "logo_url": "https://i.postimg.cc/rFNt0Wkq/aa7460ea-b0b1-423c-9755-4473abc80a05.jpg",
   "background_url": "https://i.postimg.cc/wxWD8YjH/76eee45f1a325937aa78e6569986a52c.jpg",
-  "bg_tint_color": "#000e38",
-  "bg_tint_opacity": 0.78,
+  "bg_tint_color": "#00E5FF",
+  "bg_tint_opacity": 0.65,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
-  "accent_color": "#000d13",
+  "accent_color": "#00E5FF",
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
@@ -17,10 +17,10 @@
   "enable_metadata": true,
   "enable_album_art": true,
   "enable_album_view": true,
+  "enable_schedule": true,
+  "schedule_url": "https://www.radiomixshow.com.br/programação",
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
-
-
   "banners": [
     {
       "title": "PATROCINADOR 1",
@@ -63,7 +63,6 @@
       "click_url": "https://youtube.com/"
     }
   ],
-
   "social_icons": [
     {
       "icon": "whatsapp",
@@ -78,8 +77,12 @@
       "url": "https://www.youtube.com/@ciclistamalucoshow"
     },
     {
-      "icon": "www.radiomixshow.com.br",
+      "icon": "website",
       "url": "https://www.radiomixshow.com.br/"
+    },
+    {
+      "icon": "calendar",
+      "url": "https://www.radiomixshow.com.br/programação"
     }
   ]
 }
