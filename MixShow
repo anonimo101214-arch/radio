@@ -3,11 +3,11 @@
   "app_name": "Radio MixShow",
   "logo_url": "https://i.postimg.cc/rFNt0Wkq/aa7460ea-b0b1-423c-9755-4473abc80a05.jpg",
   "background_url": "https://i.postimg.cc/wxWD8YjH/76eee45f1a325937aa78e6569986a52c.jpg",
-  "bg_tint_color": "#9D00FF",
-  "bg_tint_opacity": 0.65,
+  "bg_tint_color": "#8000FF",
+  "bg_tint_opacity": 0.70,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
-  "accent_color": "#BF00FF",
+  "accent_color": "#BD00FF",
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
@@ -18,6 +18,8 @@
   "enable_album_art": true,
   "enable_album_view": true,
   "enable_schedule": true,
+  "enable_equalizer_animation": true,
+  "enable_visualizer": true,
   "schedule_url": "https://www.radiomixshow.com.br/programação",
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
@@ -25,7 +27,7 @@
     {
       "title": "MENU DO SITE",
       "subtitle": "Clique para abrir o Menu",
-      "bg_color": "#9D00FF",
+      "bg_color": "#8000FF",
       "text_color": "#FFFFFF",
       "image_url": "https://www.tendaatacado.com.br/assets/institucional/Imagem_191.png",
       "click_url": "https://www.radiomixshow.com.br/"
@@ -66,19 +68,33 @@
   "social_icons": [
     {
       "icon": "whatsapp",
+      "label": "WhatsApp",
       "url": "https://api.whatsapp.com/send?phone=55"
     },
     {
       "icon": "instagram",
+      "label": "Instagram",
       "url": ""
     },
     {
       "icon": "youtube",
+      "label": "YouTube",
       "url": "https://www.youtube.com/@ciclistamalucoshow"
     },
     {
       "icon": "website",
+      "label": "Site Oficial",
       "url": "https://www.radiomixshow.com.br/"
+    },
+    {
+      "icon": "calendar",
+      "label": "Programação",
+      "url": "https://www.radiomixshow.com.br/programação"
+    },
+    {
+      "icon": "chat",
+      "label": "Pedir Música",
+      "url": "https://api.whatsapp.com/send?phone=55"
     }
   ]
 }
